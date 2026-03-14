@@ -26,3 +26,8 @@ We also provide an ``` invivo_helpers.py ``` script, which can be used to normal
 
 - Incorporating spatial information in deep learning parameter estimation with application to the intravoxel incoherent motion model in diffusion-weighted MRI [MEDIA paper](https://www.sciencedirect.com/science/article/pii/S1361841524003396)
 - A Comparative Study of IVIM-MRI Fitting Techniques in Glioma Grading: Conventional, Bayesian, and Voxel-wise and Spatially-Aware Deep Learning Approaches [JMRI paper](https://).
+
+## 📬 Contact
+For questions or issues, please contact:  
+misha.kaandorp@kispi.uzh.ch
+
