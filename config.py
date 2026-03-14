@@ -21,7 +21,7 @@ CONFIG = {
     "model_name": "SA-17",
 
     "paths": {
-        "output_dir": "runs/run_4",
+        "output_dir": "runs/run_1",
         "resume_weight": ""
     },
 
@@ -31,7 +31,7 @@ CONFIG = {
         "training_generator": "patch_generator_random_uniform",
         "training_strategy": "supervised",
         "learning_rate": 1e-4,
-        "n_epochs": 21,  # can also be lower.. 300 .. Please ensure convergence of the network before evaluation
+        "n_epochs": 3000,  # can also be lower.. 300 .. Please ensure convergence of the network before evaluation
         "batches_per_epoch": 500,
         "batch_size": 128,
         "patch_size": 17  # patch_size of the generator
