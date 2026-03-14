@@ -20,9 +20,6 @@ Running ``` transformer_parameter_estimation.sh ``` does the following:
 - Trains a transformer (SA-17 or NATTEN-17) on patches of model parameters.
 - Performs inference using the trained transformer on the generated parameter maps.
 
-For altering training, network and simulations parameters, please alter  ``` config.py ```
-
-
 We also provide an ``` invivo_helpers.py ``` script, which can be used to normalize in vivo diffusion MRI data to match the value range used during training (i.e., values between 0 and 1). This required an in vivo diffusion MRI image with dimensions (x, y, z, b) and a homogeneous tissue mask (x, y, z) (e.g., a white matter mask). This normalization ensures compatibility between real data and the synthetic training distribution.
 
 ## 📜 Citation
