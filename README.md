@@ -31,3 +31,4 @@ We also provide an ``` invivo_helpers.py ``` script, which can be used to normal
 For questions or issues, please contact:  
 misha.kaandorp@kispi.uzh.ch
 
+![Image](Fractal_and_invivo.png)
